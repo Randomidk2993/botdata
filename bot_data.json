@@ -1,8 +1,8 @@
 {
-  "last_update": "2025-09-23T19:42:17.463906",
+  "last_update": "2025-09-23T19:44:05.859566",
   "analytics": {
     "bot_analytics": {
-      "total_messages": 9,
+      "total_messages": 13,
       "total_images_generated": 0,
       "response_times": [
         1.1436240673065186,
@@ -30,26 +30,30 @@
         0.8517129421234131,
         0.6833677291870117,
         0.7734107971191406,
+        0.705657958984375,
+        0.8517129421234131,
+        0.6833677291870117,
+        0.7734107971191406,
         0.705657958984375
       ],
       "user_activity": {
         "767859006051450890": {
-          "username": "daddy PLEASE",
-          "message_count": 18397472439347322,
-          "total_chars": 37215,
+          "username": "pikaorsmth",
+          "message_count": 65,
+          "total_chars": 37345,
           "last_active": "2025-09-23T19:42:16.301793"
         },
         "1135066602828746772": {
           "username": "unknowney",
-          "message_count": 86,
-          "total_chars": 1592,
-          "last_active": "2025-09-23T19:40:25.227552"
+          "message_count": 90,
+          "total_chars": 1722,
+          "last_active": "2025-09-23T19:43:18.377785"
         },
         "1270788930190577694": {
           "username": "Bassline#1406",
-          "message_count": 81,
-          "total_chars": 7552,
-          "last_active": "2025-09-23T19:40:28.277506"
+          "message_count": 85,
+          "total_chars": 8126,
+          "last_active": "2025-09-23T19:43:18.728470"
         }
       },
       "channel_activity": {
@@ -60,8 +64,8 @@
         },
         "1176025099011358724": {
           "name": "general",
-          "message_count": 87,
-          "last_active": "2025-09-23T19:42:16.301802"
+          "message_count": 100,
+          "last_active": "2025-09-23T19:43:18.728480"
         },
         "1416601160483213383": {
           "name": "r",
@@ -757,6 +761,56 @@
         },
         "timestamp": "2025-09-23T19:42:17.317188",
         "bot_uptime": "0:03:15.055109"
+      }
+    },
+    {
+      "timestamp": "2025-09-23T19:44:05.859569",
+      "data": {
+        "bot_analytics": {
+          "total_messages": 13,
+          "total_images_generated": 0,
+          "response_times": [
+            0.8517129421234131,
+            0.6833677291870117,
+            0.7734107971191406,
+            0.705657958984375
+          ],
+          "user_activity": {
+            "767859006051450890": {
+              "username": "pikaorsmth",
+              "message_count": 5,
+              "total_chars": 130,
+              "last_active": "2025-09-23T19:42:16.301793"
+            },
+            "1135066602828746772": {
+              "username": "unknowney",
+              "message_count": 4,
+              "total_chars": 130,
+              "last_active": "2025-09-23T19:43:18.377785"
+            },
+            "1270788930190577694": {
+              "username": "Bassline#1406",
+              "message_count": 4,
+              "total_chars": 574,
+              "last_active": "2025-09-23T19:43:18.728470"
+            }
+          },
+          "channel_activity": {
+            "1176025099011358724": {
+              "name": "general",
+              "message_count": 13,
+              "last_active": "2025-09-23T19:43:18.728480"
+            }
+          },
+          "start_time": "2025-09-23T19:39:02.262085",
+          "error_log": []
+        },
+        "conversation_stats": {
+          "total_channels": 1,
+          "total_conversations": 8
+        },
+        "timestamp": "2025-09-23T19:44:05.717445",
+        "bot_uptime": "0:05:03.455375"
       }
     }
   ]
